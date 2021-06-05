@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Main-Class: slice.SliceMain
+Class-Path: primordial-0.1.0.jar guava-29.0-jre.jar org.osgi.core-6.0.0.
+ jar org.eclipse.osgi-3.7.1.jar com.ibm.wala.cast-1.5.5.jar com.ibm.wala
+ .core-1.5.5.jar com.ibm.wala.util-1.5.5.jar com.ibm.wala.shrike-1.5.5.j
+ ar jobs-3.6.0-v20140424-0053.jar org.eclipse.jdt.core-3.21.0.jar com.ib
+ m.wala.cast.java-1.5.5.jar common-3.6.200-v20130402-1505.jar runtime-3.
+ 10.0-v20140318-2214.jar com.ibm.wala.cast.java.ecj-1.5.5.jar org.eclips
+ e.core.contenttype-3.4.100.jar org.eclipse.equinox.preferences-3.4.1.ja
+ r org.eclipse.core.resources-3.6.0.v20100526-0737.jar
+
